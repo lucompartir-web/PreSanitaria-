@@ -39,3 +39,18 @@ Paciente con fiebre postq.
 ## Caso 10
 Paciente con Alzheimer agitado.  
 👉 Actuación correcta: Rutinas seguras + ambiente calmado.
+# 🩺 Examen Narrado – 50 Casos
+
+Incluye higiene, movilización, nutrición, UPP, urgencias y psicosocial.  
+Cada caso tiene su respuesta clave en `correction.md`.
+
+## Caso 1
+Paciente encamado con eritema sacro → ✅ Cambios posturales + hidratación piel
+
+## Caso 2
+Paciente con atragantamiento → ✅ Maniobra de Heimlich
+
+...
+
+## Caso 50
+Paciente con Alzheimer agitado → ✅ Rutinas seguras + ambiente calmado
