@@ -30,3 +30,10 @@
 28 → Presión directa + movilización segura  
 29 → Fowler + higiene bucal  
 30 → Agua tibia + apoyo emocional
+# ✅ Corrección – Examen Narrado 50 Casos
+
+1 → Cambios posturales + hidratación piel  
+2 → Maniobra de Heimlich  
+3 → Escala dolor + aviso equipo  
+...  
+50 → Rutinas seguras + ambiente calmado
