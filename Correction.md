@@ -43,3 +43,6 @@
 2 → Fowler alta  
 ...  
 100 → Rutinas seguras + ambiente calmado
+# ✅ Corrección – Examen Narrado 150 Casos
+
+Claves rápidas para todos los casos.
