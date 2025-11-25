@@ -12,3 +12,6 @@ Ejemplo:
 
 Pack completo con rotación de bloques clínicos.  
 Incluye corrección en `correction.md`.
+# 🩺 Examen Narrado – 300 Casos (Pack A)
+
+Simulacro extenso con rotación infinita.
