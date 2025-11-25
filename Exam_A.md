@@ -8,3 +8,7 @@ Ejemplo:
 2. Disnea severa → ✅ Fowler alta  
 ...  
 100. Alzheimer con agitación → ✅ Rutinas seguras + ambiente calmado
+# 🩺 Examen Narrado – 150 Casos
+
+Pack completo con rotación de bloques clínicos.  
+Incluye corrección en `correction.md`.
