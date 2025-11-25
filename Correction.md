@@ -37,3 +37,9 @@
 3 → Escala dolor + aviso equipo  
 ...  
 50 → Rutinas seguras + ambiente calmado
+# ✅ Corrección – Examen Narrado 100 Casos
+
+1 → Retirar prótesis + gasas antisépticas  
+2 → Fowler alta  
+...  
+100 → Rutinas seguras + ambiente calmado
