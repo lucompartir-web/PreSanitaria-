@@ -1,0 +1,4 @@
+# 🩺 Examen Narrado – 150 Casos
+
+Pack completo con rotación de bloques clínicos.  
+Incluye corrección en `correction.md`.
