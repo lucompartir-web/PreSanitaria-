@@ -1,0 +1,6 @@
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17  // <-- Esta línea
+        targetCompatibility JavaVersion.VERSION_17  // <-- Esta línea
+    }
+}
