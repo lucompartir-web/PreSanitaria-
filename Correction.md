@@ -47,3 +47,8 @@
 
 Claves rápidas para todos los casos.
 # ✅ Corrección – Examen Narrado 300 Casos
+# ✅ Corrección – Examen Narrado 30 Casos
+1 → Cambios posturales + hidratación piel  
+2 → Maniobra de Heimlich  
+...  
+30 → Agua tibia + apoyo emocional
