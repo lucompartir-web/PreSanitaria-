@@ -10,3 +10,6 @@ Paciente con atragantamiento → ✅ Maniobra de Heimlich
 
 ## Caso 30
 Paciente con quemadura + ansiedad → ✅ Agua tibia + apoyo emocional
+# 🩺 Examen Narrado – 500 Casos
+
+Simulacro maestro con rotación infinita.
