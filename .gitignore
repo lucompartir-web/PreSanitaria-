@@ -1,0 +1,79 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+
+# The .DS_Store file for macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Android
+bin/
+gen/
+proguard/
+proguard-project.txt
+*.keystore
+
+# Build outputs
+/*/build/
+/*/*/build/
+
+# Gradle wrapper
+gradle/
+gradlew
+gradlew.bat
+
+# IntelliJ specific
+out/
+*.class
+*.jar
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# NDK
+obj/
+
+# Android Studio 3.1+ serialized cache file
+.idea/caches/
+
+# Crashlytics
+crashlytics-build.properties
+crashlytics.properties
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jetbrains
+*.iml
+.idea/
+
+# Build
+build/
+
+# Lint
+lint-results*.xml
+
+# VS Code
+.vscode/
+
+# Misc
+*.jks
